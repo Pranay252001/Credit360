@@ -1,0 +1,2 @@
+Credit360
+Credit360 Insights is a comprehensive data analysis project focused on credit card usage and transaction patterns. Using PostgreSQL, I structured and queried relational data, and leveraged Power BI to design interactive dashboards for detailed customer and transaction reports. The project involved crafting DAX queries to enable dynamic data visualizations, providing actionable insights into credit card usage behaviors and transaction trends.
